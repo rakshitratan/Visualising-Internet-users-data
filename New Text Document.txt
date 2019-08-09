@@ -1,0 +1,11 @@
+https://www.coursera.org/learn/python-statistics-financial-analysis/lecture/bbbKB/1-0-module-introduction
+
+https://pythonforfinance.net/2019/04/30/data-analysis-with-pandas-and-customised-visuals-with-matplotlib/
+
+https://github.com/Shringa13/Chicago-Crime-Data-Analysis
+
+
+https://github.com/Tbhangale/Chicago-Crime-Analysis/blob/master/Modeling.ipynb
+
+
+https://matplotlib.org/3.1.0/gallery/lines_bars_and_markers/barchart.html#sphx-glr-gallery-lines-bars-and-markers-barchart-py
