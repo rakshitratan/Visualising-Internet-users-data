@@ -1,5 +1,5 @@
-# Visualising-Internet-users-data
-Visualising Internet users data and Comparing it with GDP growth rate
+# Visualising Internet users data
+# Visualising Internet users data and Comparing it with GDP growth rate
 
 Since I am a Mater’s student, working with data has always been part of my daily tasks and routine. 
 Having no background in programming I tried my luck with modern tools like Tableau and Power BI 
